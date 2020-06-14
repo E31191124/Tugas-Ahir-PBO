@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=RocketAttackWorld
+comment0.text=\r\n\ Pertahanan\ Kota\!\r\n\ Game\ sederhana\ mempertahankan\ kota\ dari\ serangan\ roket\!\r\n\ Cara\ Bermain\:\r\n\ Mouse\ \=\ kontrol;\ mouse\ klik\ \=\ Tembak\!\r\n\ \r\n\ Author\:\ Andi\ Purnama\r\n\ Pelita\ Bangsa\r\n
+comment1.params=
+comment1.target=int\ scoreOfRockets()
+comment2.params=
+comment2.target=RocketAttackWorld()
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ RocketAttackWorld.\r\n\ \r\n
+comment3.params=
+comment3.target=void\ createCity()
+comment4.params=
+comment4.target=void\ addGun()
+comment5.params=
+comment5.target=greenfoot.Actor\ getCityActor()
+comment6.params=level
+comment6.target=void\ addLevelDisplay(int)
+comment7.params=
+comment7.target=void\ act()
+comment8.params=
+comment8.target=void\ addScoreKeeper()
+numComments=9

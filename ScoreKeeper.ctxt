@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ScoreKeeper
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ScoreKeeper\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=amount
+comment1.target=void\ incrementScore(int)
+comment2.params=
+comment2.target=ScoreKeeper()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ gameOver()
+numComments=5
